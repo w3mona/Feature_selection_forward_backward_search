@@ -1,4 +1,4 @@
-```markdown
+
 # Feature Selection — Forward & Backward Search
 
 A small C++ command-line tool implementing greedy wrapper-style feature-selection algorithms (forward selection and backward elimination), evaluated with Leave-One-Out cross-validation using a 1-Nearest-Neighbor classifier.
@@ -99,7 +99,7 @@ To keep documentation accurate, note these items are not in the current code unl
 
 Contributions are welcome. If you add features (tests, benchmarks, a pluggable scoring interface, build tooling), please update the README to reflect them and open a pull request.
 
-## License
+
 
 This repository is currently unlicensed. If you want the project to be open-source under a standard license, add a `LICENSE` file (e.g., MIT, Apache-2.0).
 
